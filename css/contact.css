@@ -1,0 +1,146 @@
+.about-section {
+    padding: 20px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    text-align: center; 
+}
+
+.about-section h2 {
+    font-size: 36px; 
+   
+}
+
+.gradient-text { 
+    background-image: linear-gradient(-20deg, #b721ff 0%, #21d4fd 100%);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+/* .contact { 
+  margin: auto;
+  margin-top: 50px;
+}
+
+.a-contact { 
+ margin: 100px;
+}
+
+.img-contact { 
+    width: 90px;
+    height: 90px;
+    transition: transform 0.25s ease-in-out;
+}
+
+.img-contact:hover { 
+    transform: scale(1.1);
+} */
+
+
+
+.contact-container { 
+    width: 655px;
+    height: 194px;
+    border: gray solid 0.1px;
+    margin: auto;
+    margin-top: 220px;
+    border-radius: 12px;
+}
+
+.martoz {
+    font-size: 36px;
+    background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    -webkit-background-clip: text;
+    color: transparent;
+    font-style: italic;
+}
+
+.dev { 
+    margin-top: 40px;
+    font-size: 120px;
+    background-image: linear-gradient(50deg, #4b00ff 24%, #4a0000 65%);
+    -webkit-background-clip: text;
+    color: transparent;
+    font-style: italic;
+}
+
+.container-a-idinaxui { 
+    width: 655px;
+    height: 194px;
+    display: flex;
+    
+}
+
+.blyat-pizdec { 
+    margin-left: 50px;
+    margin-top: 74px;
+}
+
+.ebat { 
+    transition: transform 0.2s ease-in-out;
+}
+
+.ebat:hover { 
+   transform: scale(1.2);
+}
+
+.container-dev {
+   
+    margin: 50px auto auto auto;
+    width: 340px;
+    height: 600px;
+    border-radius: 20px; 
+    border: solid #4b00ff 1px
+}
+
+.avatarka-style { 
+    margin-top: 25px;
+    width: 200px;
+    height: 200px;
+    transition: transform 0.1s ease-in-out;
+}
+
+
+
+
+.Namekrch { 
+    margin-top: 10px;
+    font-size: 25px;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+.link { 
+    height: 45px;
+    width: 300px;
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    font-size: 18px;
+    color: white;
+    border: gray solid 1px;
+    border-radius: 20px;
+    transition: transform 0.43s ease-in-out;
+}
+
+.link:hover { 
+    transform: scale(1.1)
+}
+
+.telegram:hover { 
+   color:#21d4fd;
+}
+
+.discord:hover { 
+   color: blue;
+}
+
+.steam:hover { 
+   color: #4b00ff;
+}
+
+.gihub:hover { 
+   color: gray;
+}

@@ -1,0 +1,50 @@
+.header {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    margin: 160px 490px;
+    width: 1000px;
+    height: 500px;
+}
+.header-text {
+    font-size: 20px;
+    padding-left: 80px;
+    padding-top: 170px;
+    text-align: center;
+    padding: auto;
+    height: 100%;
+    width: 50%;
+    color: #fff
+}
+.header-img {
+    width: 25px;
+    height: 25px;
+}
+
+.header-avatar {
+    margin-left: 10px;
+    margin-bottom: 50px;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+ 
+}
+
+
+
+
+
+.yavaxue { 
+    margin-top: 5px;
+    width: 30px;
+    height: 30px;
+    transition: transform 0.5s ease-in-out;
+}
+
+.vaxue { 
+    margin-left: 20px; 
+}
+
+.yavaxue:hover {
+    transform: scale(1.1);
+}
